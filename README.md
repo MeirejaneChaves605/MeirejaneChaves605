@@ -9,6 +9,8 @@
 
 ##  BEM VINDO AO MEU GITHUB
 
+![Snake animation](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/MeirejaneChaves605">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&langs_count=7&theme=dracula"/>
