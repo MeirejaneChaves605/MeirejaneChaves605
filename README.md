@@ -10,7 +10,6 @@
 
 ##  BEM VINDO AO MEU GITHUB
 
-![Snake animation](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/MeirejaneChaves605">
