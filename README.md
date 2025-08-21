@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <img align="right" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
-
 </br>
 </br>
 </br>
@@ -26,7 +25,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 ## Ferramentas e Tecnologias
-
+<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
                                         
 ## Estou aprendendo
