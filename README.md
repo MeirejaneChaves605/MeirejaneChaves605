@@ -38,8 +38,6 @@
                                              
 ## BEM VINDO AO MEU GITHUB
 
-## BEM VINDO AO MEU GITHUB
-
   <div>
 <a href="https://github.com/MeirejaneChaves605">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&langs_count=7&theme=dracula"/>
