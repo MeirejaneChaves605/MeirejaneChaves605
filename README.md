@@ -8,6 +8,9 @@
 </div>
 
 ![Descrição da Imagem](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true)
+
+## ⭐️ Sobre mim
+
   <p align="center">Eu sou estudante de programação e TI (Tecnologia da informação)
 <img align="center" alt="" src="./src/header-gif.gif">
   <br>
