@@ -25,9 +25,6 @@
 
 <b>Sou sou estudante de programação e TI (Tecnologia da informação).</b> <b>Por aqui gosto de compartilhar códigos de linguagens de programações no repositório.</b>
 <img align="center" alt="" src="./src/header-gif.gif">
-  <br>
-<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
-</br>
 
 <div align="center">
   <table>
