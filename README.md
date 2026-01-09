@@ -53,6 +53,9 @@
 </div>
 
 **Além da programação...**
+  <br>
+<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
+</br>
 
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
 * **Leitura & Espiritualidade:** Gosto de ler e recomendo obras que expandem a nossa visão de mundo:
