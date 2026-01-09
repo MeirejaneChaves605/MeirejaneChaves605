@@ -53,11 +53,15 @@
 **Além da programação...**
 
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
-* **Leitura & Espiritualidade:** Gosto de ler e super recomendo alguns livros e gêneros que considero essenciais:
-    * 📖 [A Bíblia Sagrada (Resumo e Temas)](https://www.gotquestions.org/Portugues/Livros-da-Biblia.html)
-    * ⚓ [Moby Dick](https://www.skoob.com.br/moby-dick-521ed631.html) (Herman Melville)
-    * ⚖️ [Crime e Castigo](https://www.skoob.com.br/crime-e-castigo-1741ed1975.html) (Fiódor Dostoiévski)
-    * 🔍 [O Universo de Agatha Christie](https://www.skoob.com.br/autor/23-agatha-christie) (Resumos das obras)
+* **Leitura & Espiritualidade:** Gosto de ler e recomendo obras que expandem a nossa visão de mundo:
+    * 📖 [A Bíblia Sagrada](https://www.bibliaonline.com.br/resumo-de-cada-livro-da-biblia/) (Temas e Contextos)
+    * ⚖️ [Crime e Castigo](https://www.skoob.com.br/livro/resumo/1741/edicao:1975) (Fiódor Dostoiévski)
+    * ⚓ [Moby Dick](https://www.skoob.com.br/livro/resumo/521/edicao:631) (Herman Melville)
+    * 🔍 [O Assassinato de Roger Ackroyd](https://www.skoob.com.br/livro/resumo/464/edicao:557) (Agatha Christie)
+    * 👁️ [1984](https://www.skoob.com.br/livro/resumo/321/edicao:375) (George Orwell)
+    * 🖼️ [O Retrato de Dorian Gray](https://www.skoob.com.br/livro/resumo/1352/edicao:1545) (Oscar Wilde)
+    * 🎻 [Um Estudo em Vermelho](https://www.skoob.com.br/livro/resumo/1381/edicao:1577) (Arthur Conan Doyle)
+    * 🪲 [A Metamorfose](https://www.skoob.com.br/livro/resumo/1105/edicao:1260) (Franz Kafka)
 
 <div align="center">
   <table>
