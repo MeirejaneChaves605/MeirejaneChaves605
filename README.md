@@ -50,6 +50,15 @@
   <img src="./src/header-gif.gif" alt="Header GIF">
 </div>
 
+**Além da programação...**
+
+* **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
+* **Leitura & Espiritualidade:** Gosto de ler e super recomendo alguns livros e gêneros que considero essenciais:
+    * 📖 [A Bíblia Sagrada](https://www.bibliaonline.com.br/)
+    * ⚓ [Moby Dick](https://www.amazon.com.br/Moby-Dick-Herman-Melville/dp/8582850024) (Herman Melville)
+    * ⚖️ [Crime e Castigo](https://www.amazon.com.br/Crime-castigo-Fiodor-Dostoievski/dp/8573266422) (Fiódor Dostoiévski)
+    * 🔍 [Policial e Suspense](https://www.amazon.com.br/Agatha-Christie/s?k=Agatha+Christie) (Agatha Christie)
+
 <div align="center">
   <table>
     <tr>
