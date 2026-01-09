@@ -43,8 +43,9 @@
   
   <br><br>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&langs_count=7&theme=dracula)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MeirejaneChaves605&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MeirejaneChaves605&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&theme=dracula)
 
   
 <picture>
