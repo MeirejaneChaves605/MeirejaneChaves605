@@ -54,7 +54,7 @@
 
 **Além da programação...**
   <br>
-<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
+<img width="600" height="600" alt="me" src="https://github.com/user-attachments/assets/cc2c6263-7f9b-4006-b06f-51f44161ac8b" />
 </br>
 
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
