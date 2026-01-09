@@ -11,6 +11,7 @@
 
 ## ⭐️ Sobre mim
 
+Sou sou estudante de programação e TI (Tecnologia da informação) <b>Por aqui gosto de compartilhar códigos de linguagens de programações no repositório.</b>
   <p align="center">Eu sou estudante de programação e TI (Tecnologia da informação)
 <img align="center" alt="" src="./src/header-gif.gif">
   <br>
