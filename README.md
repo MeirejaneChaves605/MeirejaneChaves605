@@ -1,5 +1,13 @@
 ## Hi there 👋 
 
+<img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/MeirejaneChaves605">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
+<br>
+
 <div dsplay="inline-block">  
 <div align="center">
   <a href="https://git.io/typing-svg">
