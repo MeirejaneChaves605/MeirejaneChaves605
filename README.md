@@ -1,6 +1,5 @@
 ## Hi there 👋 
 ![Descrição da Imagem](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true)
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
   <p align="center">Eu sou estudante de programação e TI (Tecnologia da informação)
 <img align="center" alt="" src="./src/header-gif.gif">
   <br>
@@ -12,11 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 
 <div align="center">
