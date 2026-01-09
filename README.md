@@ -1,5 +1,5 @@
 ## Hi there 👋 
-
+![Descrição da Imagem](COLE_AQUI_O_LINK_DO_GIF)
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
   <p align="center">Eu sou estudante de programação e TI (Tecnologia da informação)
 <img align="center" alt="" src="./src/header-gif.gif">
