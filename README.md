@@ -32,8 +32,6 @@
   <img src="./src/header-gif.gif" alt="Header GIF">
 </div>
 
-<img align="right" alt="Estudando" height="190px" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/src/study.gif">
-
 ## Contatos
 
 <div>
