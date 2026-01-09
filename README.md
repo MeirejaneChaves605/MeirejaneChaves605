@@ -22,6 +22,16 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=524&lines=Meirejane+Chaves" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
+  <img src="./src/header-gif.gif" alt="Header GIF">
+</div>
+
 ## Contatos
 
 <div>
