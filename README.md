@@ -103,11 +103,6 @@
                                              
 ## BEM VINDO AO MEU GITHUB 🚀
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&label=VISITAS%20AO%20PERFIL&color=9580ff&style=flat" alt="Contador de Visitas" />
-  
-  <br><br>
-  </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeirejaneChaves605&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeirejaneChaves605&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeirejaneChaves605&theme=tokyonight) |
 | :-: | :-: | :-: |
