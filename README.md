@@ -53,6 +53,8 @@
 </div>
 
 **Além da programação...**
+
+
   <br>
 <img width="700" height="400" alt="me" src="https://github.com/user-attachments/assets/cc2c6263-7f9b-4006-b06f-51f44161ac8b" />
 </br>
