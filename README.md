@@ -36,8 +36,8 @@
       <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
     </tr>
      <tr>
-      <td><img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="300" height="170px></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+      <td><img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="300" height="170px"></td>
+      <td><img src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/study.gif?raw=true width="300" height="170px "> </td>
     </tr>
   </table>
 </div>
