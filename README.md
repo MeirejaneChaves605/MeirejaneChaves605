@@ -19,7 +19,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true alt="Imagem">
 </p>
 
 <div align="center">
