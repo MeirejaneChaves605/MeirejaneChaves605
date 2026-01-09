@@ -54,7 +54,7 @@
 
 **Além da programação...**
   <br>
-<img width="800" height="300" alt="me" src="https://github.com/user-attachments/assets/cc2c6263-7f9b-4006-b06f-51f44161ac8b" />
+<img width="700" height="400" alt="me" src="https://github.com/user-attachments/assets/cc2c6263-7f9b-4006-b06f-51f44161ac8b" />
 </br>
 
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
