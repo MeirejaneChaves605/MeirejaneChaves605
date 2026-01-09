@@ -54,10 +54,10 @@
 
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
 * **Leitura & Espiritualidade:** Gosto de ler e super recomendo alguns livros e gêneros que considero essenciais:
-    * 📖 [A Bíblia Sagrada](https://www.bibliaonline.com.br/)
-    * ⚓ [Moby Dick](https://www.amazon.com.br/Moby-Dick-Herman-Melville/dp/8582850024) (Herman Melville)
-    * ⚖️ [Crime e Castigo](https://www.amazon.com.br/Crime-castigo-Fiodor-Dostoievski/dp/8573266422) (Fiódor Dostoiévski)
-    * 🔍 [Policial e Suspense](https://www.amazon.com.br/Agatha-Christie/s?k=Agatha+Christie) (Agatha Christie)
+    * 📖 [A Bíblia Sagrada (Resumo e Temas)](https://www.gotquestions.org/Portugues/Livros-da-Biblia.html)
+    * ⚓ [Moby Dick](https://www.skoob.com.br/moby-dick-521ed631.html) (Herman Melville)
+    * ⚖️ [Crime e Castigo](https://www.skoob.com.br/crime-e-castigo-1741ed1975.html) (Fiódor Dostoiévski)
+    * 🔍 [O Universo de Agatha Christie](https://www.skoob.com.br/autor/23-agatha-christie) (Resumos das obras)
 
 <div align="center">
   <table>
