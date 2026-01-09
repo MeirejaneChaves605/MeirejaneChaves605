@@ -1,13 +1,14 @@
 ## Hi there 👋 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4"><br>
+
+    <br>
+<img align="left" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
+</br>
 <div align="center">
   <a href="https://github.com/MeirejaneChaves605">
     <img align="center" src="Welcome.png" width="500">
   </a>
-    <br>
-<img align="left" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
-</br>
 </div>
 <br>
 
