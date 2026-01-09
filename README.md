@@ -17,10 +17,7 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true alt="Imagem">
-</p>
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
