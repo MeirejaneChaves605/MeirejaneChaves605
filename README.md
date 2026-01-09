@@ -17,9 +17,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <img src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Meu GIF">
 </p>
 
 ## Contatos
