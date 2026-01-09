@@ -44,9 +44,11 @@
   <br><br>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/MeirejaneChaves605?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dracula" alt="Metrics" />
+  <a href="https://github.com/MeirejaneChaves605">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeirejaneChaves605&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
 </div>
-
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake-dark.svg">
