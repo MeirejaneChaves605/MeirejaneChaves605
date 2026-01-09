@@ -13,12 +13,7 @@
   <br>
 <img align="right" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
 </br>
-<div dsplay="inline-block">  
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 
 <div align="center">
