@@ -17,6 +17,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 ## Contatos
 
 <div>
