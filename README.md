@@ -47,12 +47,7 @@
   <img src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&label=VISITAS%20AO%20PERFIL&color=9580ff&style=flat" alt="Contador de Visitas" />
   
   <br><br>
-
-  <a href="https://github.com/MeirejaneChaves605">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeirejaneChaves605&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeirejaneChaves605&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-</div>
+  </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeirejaneChaves605&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeirejaneChaves605&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeirejaneChaves605&theme=tokyonight) |
 | :-: | :-: | :-: |
