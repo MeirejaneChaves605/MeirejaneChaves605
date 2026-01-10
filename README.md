@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/hand.gif" width="30px">
+## Hi there 
+<img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/hand.gif" width="30px">
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
 
