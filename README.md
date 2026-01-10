@@ -123,15 +123,6 @@ Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeirejaneChaves605&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MeirejaneChaves605&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
 
-## 🌐 Conecte-se Comigo
-
-Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
-
-<a href="https://sites.google.com/view/meirejanechaves/in%C3%ADcio" target="_blank">
-   <img src="https://img.shields.io/badge/Portfólio-Google_Sites-blue?style=for-the-badge&logo=google" alt="Google Sites">
-</a>
-
----  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake.svg">
