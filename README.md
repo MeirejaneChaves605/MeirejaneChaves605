@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
 ## Hi there 👋 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
@@ -115,6 +118,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
