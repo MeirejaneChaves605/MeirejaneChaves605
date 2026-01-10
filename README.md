@@ -95,6 +95,16 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## 🌐 Conecte-se Comigo
+
+Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
+
+<a href="https://sites.google.com/view/meirejanechaves/in%C3%ADcio" target="_blank">
+   <img src="https://img.shields.io/badge/Portfólio-Google_Sites-blue?style=for-the-badge&logo=google" alt="Google Sites">
+</a>
+
+---  
+
 ## Ferramentas e Tecnologias
 <img width="200px" align="right" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/imagem/AvatarStickers_20250821_151734_0.png?raw=true.png">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
@@ -121,8 +131,7 @@ Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
    <img src="https://img.shields.io/badge/Portfólio-Google_Sites-blue?style=for-the-badge&logo=google" alt="Google Sites">
 </a>
 
----
-  
+---  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/output/github-contribution-grid-snake.svg">
