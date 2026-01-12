@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=600&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Eu+sou+de+Desenvolvimento+de+Software;Brasil+-+Bras%C3%ADlia+-+DF;Bem-vindos+ao+meu+perfil!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=600&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Eu+sou+de+Desenvolvimento+de+Software;Eu+sou+do+Brasil-+Bras%C3%ADlia+-+DF;Bem-vindos+ao+meu+perfil!" alt="Typing SVG">
   </a>
 
   <br><br>
