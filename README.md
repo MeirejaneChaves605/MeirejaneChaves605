@@ -13,7 +13,13 @@
   </a>
 </div>
 <br>
-
+<div dsplay="inline-block">  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+  
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=600&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Eu+sou+de+Desenvolvimento+de+Software;Eu+sou+do+Brasil-+Bras%C3%ADlia+-+DF;Bem-vindos+ao+meu+perfil!" alt="Typing SVG">
