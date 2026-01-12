@@ -21,6 +21,8 @@
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Desenvolvimento+de+Software;Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
 ![Descrição da Imagem](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true)
 
 ## ⭐️ Sobre mim
