@@ -3,6 +3,8 @@
 
 ## Hi there 👋 
 
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/main/hi.gif" height="30px"></h1>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
 
