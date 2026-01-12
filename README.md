@@ -5,12 +5,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Meirejane Chaves</h1>
 
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-
-### 👩‍💻 Sobre mim
-- ✨ Desenvolvedora em formação...
-- 📚 Estudando JavaScript, HTML e CSS.
-- 🎯 Focada em aprender novas tecnologias.
+ 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
 
