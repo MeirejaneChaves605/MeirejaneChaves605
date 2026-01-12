@@ -3,9 +3,7 @@
 
 ## Hi there 👋 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/master/hi.gif" height="30px">, I'm Meirejane Chaves</h1>
-
-
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" height="35"></h1>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
 
