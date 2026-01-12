@@ -21,7 +21,19 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Desenvolvimento+de+Software;Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=524&lines=Meu+nome+%C3%A9+Meirejane+Chaves;Desenvolvimento+de+Software;Bem-vindos+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MeirejaneChaves605&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ![Descrição da Imagem](https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?raw=true)
 
