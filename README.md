@@ -70,6 +70,7 @@
 <img width="700" height="400" alt="me" src="https://github.com/user-attachments/assets/cc2c6263-7f9b-4006-b06f-51f44161ac8b" />
 </br>
 
+
 * **Esportes & Bem-estar:** Sou entusiasta de uma vida ativa. Gosto de frequentar a **academia**, praticar **lutas** e **natação**.
 * **Leitura & Espiritualidade:** Gosto de ler e recomendo obras que expandem a nossa visão de mundo:
     * 📖 [A Bíblia Sagrada](https://www.bibliaonline.com.br/resumo-de-cada-livro-da-biblia/) (Temas e Contextos)
