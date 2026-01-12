@@ -3,9 +3,9 @@
 
 ## Hi there 👋 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Meirejane Chaves</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/master/hi.gif" height="30px">, I'm Meirejane Chaves</h1>
 
- 
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
 
