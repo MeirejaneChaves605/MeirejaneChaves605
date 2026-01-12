@@ -1,14 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-## Hi there 👋 
-
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MeirejaneChaves605/MeirejaneChaves605/main/hi.gif" height="30px"></h1>
 
-
 <img align="right" src="https://komarev.com/ghpvc/?username=MeirejaneChaves605&color=ff69b4">
-
-   
+  
 <img align="left" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/foto/IMG-20250821-WA0009.jpg?raw=true.png">
 
 <div align="center">
