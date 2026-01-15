@@ -105,7 +105,7 @@
 
 Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
 
-(https://meirejanechaves605.github.io/portfolio-ti/)
+
 
 <a href="https://sites.google.com/view/meirejanechaves/in%C3%ADcio" target="_blank">
    <img src="https://img.shields.io/badge/Portfólio-Google_Sites-blue?style=for-the-badge&logo=google" alt="Google Sites">
