@@ -111,6 +111,10 @@ Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
    <img src="https://img.shields.io/badge/Portfólio-Google_Sites-blue?style=for-the-badge&logo=google" alt="Google Sites">
 </a>
 
+## 🌐 Demonstração Online
+🚀 **Clique no link abaixo para visualizar o site:**
+[Visitar Explore Brasília](https://meirejanechaves605.github.io/Pontos-de-Brasilia/)
+
 ---  
 
 ## Ferramentas e Tecnologias
