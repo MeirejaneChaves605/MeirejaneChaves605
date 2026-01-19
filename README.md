@@ -115,7 +115,7 @@ Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
 🚀 **Clique no link abaixo para visualizar o site:**
 [Visitar Explore Brasília](https://meirejanechaves605.github.io/Pontos-de-Brasilia/)
 
-* 🗺️ **Guia Rio de Janeiro:** [Acesse o site aqui](https://meirejanechaves605.github.io/Pontos-do-Rio-de-Janeiro/)
+* 🗺️ **Guia Rio de Janeiro:** [Acesse o site aqui 🌊🌴](https://meirejanechaves605.github.io/Pontos-do-Rio-de-Janeiro/)
 
 ---  
 
