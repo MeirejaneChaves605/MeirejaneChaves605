@@ -120,7 +120,7 @@ Dê uma olhada no meu portfólio completo e conheça mais sobre o meu trabalho:
 ---  
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/MeirejaneChaves605/MeirejaneChaves605/blob/main/commit-animation.gif?raw=true.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
